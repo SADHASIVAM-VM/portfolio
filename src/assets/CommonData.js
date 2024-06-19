@@ -135,17 +135,17 @@ export const SocialMedia =[
     {
         id:1,
         icon:Ig ,
-        link:"#"
+        link:"https://www.instagram.com/siva.4k"
     },
     {
         id:2,
         icon:In ,
-        link:"#"
+        link:"https://www.linkedin.com/in/sadhasivamvm"
     },
     {
         id:3,
         icon:GitHub ,
-        link:"#"
+        link:"https://github.com/SADHASIVAM-VM"
     },
 ]
 
