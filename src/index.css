@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    
+    font-family:"Nunito",Verdana,sans-serif;
+    font-optical-sizing: auto;
+    
+    
+   
+}
+body{
+    background: #000;
+    color: white;
+}
+.border, hr{
+    border-color: hsl(0, 0%, 22%);
+}
+input,textarea{
+    background: transparent;
+}
