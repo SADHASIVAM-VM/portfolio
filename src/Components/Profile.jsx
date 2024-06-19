@@ -23,7 +23,7 @@ const Profile = () => {
             </p>
           </div>
           <div
-            className="md:hidden text-2xl absolute right-0 -top-2 hover:cursor-pointer bg-black rounded-full hover:shadow hover:shadow-[#60f05e] transition-all"
+            className="md:hidden text-2xl absolute right-0 -top-2 hover:cursor-pointer bg-black rounded-full hover:shadow hover:shadow-[#00db70] transition-all"
             onClick={() => setIsOpend(!isOpend)}
           >
             <img src={drawer} className="w-7" />
