@@ -23,7 +23,7 @@ const Resume = () => {
                 <p className='text-sm md:text-md '> {itms.detail}
                 </p>
                 <div className="flex items-center mt-2 gap-1">
-                  <img src={marker} alt="" className='w-6 '/><p>{itms.location}</p>
+                  <img src={marker} alt="" className='w-6 '/><p className='text-sm text-gray-300'>{itms.location}</p>
                 </div>
                
             </div>

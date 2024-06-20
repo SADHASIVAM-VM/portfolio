@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import avatar from "../assets/images/my-avatar.png";
+import profile from "../assets/images/profile.jpg";
 import drawer from "../assets/svg/7266613_arrow_down_icon.svg";
 import { ProfileData } from "../assets/CommonData";
 
@@ -10,7 +10,7 @@ const Profile = () => {
       <div className="w-full ">
         <div className="photo flex md:flex-col gap-5 items-center mb-5 ">
           <img
-            src={avatar}
+            src={profile} alt="img"
             className=" rounded-md w-18 md:w-32 md:h-32 h-16 bg-[#2b2b2c] "
           />
           <div className="md:flex flex-col items-center">
