@@ -9,16 +9,8 @@ const About = () => {
       <h1 className='text-xl md:text-4xl font-bold md:mb-10 mb-2 text-[#ffdb70]'>About Me</h1>
       
       <p className="text-sm md:text-md mb-3 xl:text-[15px] ">
-      Hey , I'm <span className='text-[#ffdb70] text-md font-bold'>SADHASIVAM VM</span> , a frontend developer crafting captivating
-            digital experiences. Proficient in HTML, CSS, and JavaScript, I
-            specialize in turning designs into seamless, user-friendly
-            interfaces. With a keen eye for detail and a passion for innovation,
-            I thrive on optimizing performance and ensuring cross-browser
-            compatibility. Beyond code, I value collaboration, <br />{" "}
-            <span className=" px-2 rounded bg-[#00ED64] text-black mr-2">
-              working seamlessly with teams to bring visions to life.
-            </span>
-             Let's create exceptional web experiences together!
+      Hey , I'm <span className='text-[#ffdb70] text-md font-bold'>SADHASIVAM VM</span> ,
+      Highly motivated and self-taught web developer with a passion for building engaging and user-friendly web applications. Possesses strong skills in front-end development (HTML, CSS, JavaScript), back-end development (Express.js, MongoDB), and version control (Git). Eager to contribute to a dynamic team environment and continuously learn new technologies.
             
           </p>
       </div>
